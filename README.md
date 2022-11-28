@@ -15,7 +15,7 @@ chmod 777 ./build.sh
 ## database
 - `✅` [docker-mysql](docker-mysql)
 - `✅` [docker-redis](docker-redis)
-- `❌` [docker-elasticsearch](docker-elasticsearch)
+- `✅` [docker-elasticsearch](docker-elasticsearch)
 - `❌` [docker-clickhouse](docker-clickhouse)
 - `❌` [docker-neo4j](docker-neo4j)
 
